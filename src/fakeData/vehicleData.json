@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Bike",
+        "img": "https://mpng.pngfly.com/20190626/yul/kisspng-motorcycle-decal-sport-bike-sticker-yamaha-yzf-r6-5d13f9a6ef4a89.9755153515615901829801.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Car",
+        "img": "https://cdn2.iconfinder.com/data/icons/vehicle-type-outline/1024/mini-suv-512.png"
+    },
+    {
+        "id": 3,
+        "name": "Bus",
+        "img": "https://www.pngitem.com/pimgs/m/94-947150_clipart-bus-logo-transport-en-commun-logo-hd.png"
+    },
+    {
+        "id": 4,
+        "name": "Train",
+        "img": "https://www.logoinspirations.co/wp-content/uploads/2019/12/train-logo.jpg"
+    }
+]
